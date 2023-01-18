@@ -7,7 +7,7 @@ Installation process described in [blog](http://blog.lwolf.org/post/how-to-easil
 [https://github.com/lwolf/gitlab-chart](https://github.com/lwolf/gitlab-chart)
 
 
-## 2016-11-24 Update #1 after post was published
+## 20223-01-17 Update #1 after post was published
 
 ### Bump versions
 
